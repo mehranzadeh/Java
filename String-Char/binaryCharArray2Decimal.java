@@ -9,7 +9,7 @@ import java.lang.Math;
  *
  * @author mehran
  */
-public class binaryCharArray2Desimal {
+public class binaryCharArray2Decimal {
 
     /**
      * @param args the command line arguments
