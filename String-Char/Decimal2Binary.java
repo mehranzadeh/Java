@@ -26,8 +26,6 @@ public class Decimal2Binary {
       }  
           s=Integer.valueOf(num).toString()+ s;     
           System.out.println(s);
-
     }
-    
-  
-}
+   
+  }
